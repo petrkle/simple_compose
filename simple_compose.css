@@ -1,0 +1,6 @@
+table.headers-table.compose-headers tbody tr:first-child{display:none;}
+#replyto-link,#followupto-link{display:none;}
+#composeoptions span.composeoption:nth-child(3){display:none !important;}
+#composeoptions span.composeoption:nth-child(4){display:none !important;}
+#composeoptions span.composeoption:nth-child(5){display:none !important;}
+#composeoptions span.composeoption:nth-child(6){display:none !important;}

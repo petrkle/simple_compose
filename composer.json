@@ -1,0 +1,26 @@
+{
+    "name": "pek/simple_compose",
+    "type": "roundcube-plugin",
+    "description": "Simple Roundcube compose new mail.",
+    "license": "GPLv3+",
+    "version": "0.1",
+    "homepage": "https://github.com/petrkle/simple_compose",
+    "authors": [
+        {
+            "name": "Petr Kletečka",
+            "email": "petr@kle.cz",
+            "homepage": "https://petr.kle.cz",
+            "role": "Developer"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "http://plugins.roundcube.net"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "roundcube/plugin-installer": ">=0.1.3"
+    }
+}
